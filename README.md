@@ -4,15 +4,11 @@
   <img src="https://user-images.githubusercontent.com/87915108/150839762-e7dd7a05-2a68-47ef-b2c1-2f9220a86357.gif"></img>
 </div>
  
-# Sobre o projeto
-
-Criei um card próprio desenvolvendo a animação com Javascript.
-
 <h1 id="sobre">Sobre 📖</h1>
 
 ### Descrição 📄
 
-Insurance é um site com foco em fazer seguro de vida para pessoas que se preocupam em se assegurar caso aconteça um imprevisto com sua própria vida.
+Criei um card próprio desenvolvendo a animação com Javascript.
 
 Para ver o projeto [clique aqui](https://pablosilva23.github.io/menu-icon/)
 
