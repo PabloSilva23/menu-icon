@@ -8,15 +8,13 @@
 
 Criei um card próprio desenvolvendo a animação com Javascript.
 
-Para ver o projeto [clique aqui](https://pablosilva23.github.io/menu-icon/)
-
 <h1 id="sobre">Sobre 📖</h1>
 
 ### Descrição 📄
 
 Insurance é um site com foco em fazer seguro de vida para pessoas que se preocupam em se assegurar caso aconteça um imprevisto com sua própria vida.
 
-Para ver o projeto [clique aqui](https://pablosilva23.github.io/site-insurance/).
+Para ver o projeto [clique aqui](https://pablosilva23.github.io/menu-icon/)
 
 ### Objetivo 🎯
 
