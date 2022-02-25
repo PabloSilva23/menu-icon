@@ -1,4 +1,4 @@
-<h1 align="center">Menu-Icon</h1>
+<h1 align="center">Navbar</h1>
  
 <div align="center">
   <img src="https://user-images.githubusercontent.com/87915108/150839762-e7dd7a05-2a68-47ef-b2c1-2f9220a86357.gif"></img>
